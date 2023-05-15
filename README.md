@@ -7,3 +7,6 @@ Key technologies used:
 * Python
 * Keras machine learning library
 * Jupyter notebooks
+
+Dataset was acquired from kaggle:
+* https://www.kaggle.com/datasets/aryashah2k/breast-ultrasound-images-dataset
